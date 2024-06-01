@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "939758413286",
+    "firebase_url": "https://tesiot-ef201-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tesiot-ef201",
+    "storage_bucket": "tesiot-ef201.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939758413286:android:d3d4ae93a0d075cf5c2227",
+        "android_client_info": {
+          "package_name": "com.example.pet_feeder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATCLUA8E-gPWcy08RG9HQcZp0eifxbtO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
